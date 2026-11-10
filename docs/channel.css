@@ -2,4 +2,4 @@
 
 #prior-atlas .legend span:nth-child(2){color:var(--b)}#prior-atlas .legend span:last-child{color:var(--muted)}
 
-@media(max-width:500px){svg text{font-size:24px}}
+@media(max-width:500px){#prior-atlas svg text{font-size:24px}}
